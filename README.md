@@ -21,6 +21,7 @@ Shortcuts I frequently use:
 - Ctrl + C (Copy)
 - Ctrl + V (Paste)
 - Ctrl + A (Select all)
+
 Shortcuts I would like to start using: 
 - Win + D (Show desktop)
 - Ctrl + R  (Refresh current window)
