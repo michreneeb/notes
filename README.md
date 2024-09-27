@@ -16,3 +16,12 @@
 -  [Geeks for Geeks "What is a README.md File?"](https://www.geeksforgeeks.org/what-is-readme-md-file/)
 ## Experiments
 :sparkles::grinning:❇️:fire::1st_place_medal:😹
+## Keyboard Shortcuts
+Shortcuts I frequently use:
+- Ctrl + C (Copy)
+- Ctrl + V (Paste)
+- Ctrl + A (Select all)
+Shortcuts I would like to start using: 
+- Win + D (Show desktop)
+- Ctrl + R  (Refresh current window)
+- Ctrl + Alt + Tab (View open apps)
