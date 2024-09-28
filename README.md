@@ -11,7 +11,7 @@
 - (  Left parenthesis, opened bracket
 - )  Right parenthesis, closed bracket
 ### Links
--  [GitHub Guide Getting Started with Writing and Formatting](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+-  [GitHub Guide "Getting Started with Writing and Formatting"](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -  [Markdown Guide](https://www.markdownguide.org/)
 -  [Geeks for Geeks "What is a README.md File?"](https://www.geeksforgeeks.org/what-is-readme-md-file/)
 ## Experiments
