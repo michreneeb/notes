@@ -29,3 +29,5 @@ Shortcuts I would like to start using:
 - Win + D (Show desktop)
 - Ctrl + R  (Refresh current window)
 - Ctrl + Alt + Tab (View open apps)
+
+[CLI commands](docs/cli.md)
