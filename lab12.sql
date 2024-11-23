@@ -1,5 +1,4 @@
 --SQL Queries Part 2
-
 --Concatenate Course Name and Semester:
 
 --Find Courses with Labs on Fridays:
