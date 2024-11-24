@@ -1,4 +1,5 @@
 --SQL Queries Part 2
+
 --Concatenate Course Name and Semester:
 
 --Find Courses with Labs on Fridays:
@@ -17,7 +18,11 @@ ORDER BY due_date;
 --Longest Course Name:
 
 --Uppercase Course Names:
+select upper(course_name) from courses;
 
 --Assignments Due in September:
+SELECT * FROM assignments
+where due_date Like '2024-09%'
+order by due_date;
 
 --Assignments with Missing Due Dates:
